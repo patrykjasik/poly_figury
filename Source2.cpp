@@ -42,7 +42,7 @@ int main() {
 	long l = 10, m = 5, n;
 	char z = 'a', c = 'g', o;
 
-	Point<int> p1(3, 6), p2(4, 7), p, q;
+	Point<int> p1(3, 6), p2(4, 7), p;
 
 //	p1.operator>(p2)
 
